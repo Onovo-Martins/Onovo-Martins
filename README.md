@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Martins Onovo  
+**Data Analyst | Turning data into actionable insights | Empowering growth through storytelling**
 
-<!--
-**Onovo-Martins/Onovo-Martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔍 About Me  
+- **Economics Graduate** passionate about data analysis and solving business problems.  
+- Skilled in **Power BI, Excel, SQL, and MySQL**, with experience in real-world datasets.  
+- Founder of **Next Gen Analyst**, a community for aspiring data analysts.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tools & Skills  
+- **Data Cleaning**: Excel, SQL, Python
+- **Data Visualization**: Power BI, Excel, Looker Studio, Ibm Cognos, Tableau 
+- **Databases**: SQL, MySQL  
+- **Communication**: Data storytelling and reporting  
+
+---
+
+### 📈 Featured Projects  
+1. **[Sales Performance Analysis](#)**  
+   - Tools: Power BI, Excel  
+   - Focus: Sales trends, KPIs, and actionable insights.  
+
+2. **[Bank Statement Analysis](#)**  
+   - Tools: SQL, Power Bi
+   - Focus: Financial data insights with structured queries.  
+
+3. **[Bike Sales Demographic Study](#)**  
+   - Tools: Excel, Power BI  
+   - Focus: Customer segmentation and product performance trends.  
+
+---
+
+### 📬 Let's Connect  
+- **Email**: [onovomartins9@gmail.com]  
+- **LinkedIn**: [https://www.linkedin.com/in/onovomartins?]  

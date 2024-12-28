@@ -35,4 +35,4 @@
 
 ### 📬 Let's Connect  
 - **Email**: [onovomartins9@gmail.com]  
-- **LinkedIn**: [https://www.linkedin.com/in/onovomartins?]  
+- **LinkedIn**: [https://www.linkedin.com/in/onovomartins]  
